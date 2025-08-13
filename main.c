@@ -14,5 +14,4 @@ int main(void) {
             printf("Aqui está o histórico dos seus pedidos");
         }
     } while (operacao_principal != 0);
-    return 0;
 }
